@@ -1,0 +1,37 @@
+canvas {
+	display: block;
+	margin: auto;
+	border: 3px solid #777777;
+	border-radius: 6px;
+	box-shadow: -3px -3px 4px #efefef, 5px 5px 6px #b9b9b9;
+}
+.main {
+	margin: auto;
+	width: 425px;
+	padding-top: 10px;
+}
+
+p {
+	text-align: center;
+	height: 10px;
+	line-height: 10px;
+	font-size: 18px;
+}
+
+p.mb-35 {
+	margin-bottom: 35px;
+}
+
+button {
+	background-color: #fff;
+	border: 2px solid #777777;
+	font-size: 18px;
+	color: #777;
+	cursor: pointer;
+	border-radius: 8px;
+}
+
+button:hover {
+	color: #222;
+}
+
